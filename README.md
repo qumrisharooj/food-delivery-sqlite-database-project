@@ -1,4 +1,4 @@
-#SQLite Food Delivery Database
+# SQLite Food Delivery Database
 
 This repository contains a synthetic SQLite relational database generated using Python. The project demonstrates core database concepts including relational schema design, use of foreign and composite keys, and representation of nominal, ordinal, interval, and ratio data types.
 
